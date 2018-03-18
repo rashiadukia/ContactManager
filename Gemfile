@@ -17,7 +17,7 @@ group :production do
   gem 'pg'
 end
 gem 'devise'
-
+gem 'omniauth-facebook'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
